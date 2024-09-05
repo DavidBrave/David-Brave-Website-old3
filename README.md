@@ -1,2 +1,13 @@
 # David-Brave-Website
-My personal website, made with Laravel 11. This is the third iteration, and hopefully the last. Third time's a charm?
+
+
+My personal Website.
+Made with :
+- Laravel 11.22.0
+
+Requirement to edit (?)
+- Composer version 2.7.8
+- PHP 8.2.12
+
+*Don't forget to make this more informational later.
+
